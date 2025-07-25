@@ -1,121 +1,105 @@
-<!-- Profile Header Banner (add your own or use an illustration) -->
-<p align="center">
-  <img src="https://your-banner-image-url.com/banner.png" width="400" alt="Profile Banner"/>
+<!-- Header Section with avatar-style illustration -->
+<p align="right">
+  <img src="https://your-image-hosting.com/sd.jpg" width="340" alt="Work From Desk Illustration" />
 </p>
 
-<!-- Profile Picture (replace with your avatar image link) -->
-<p align="center">
-  <img src="https://your-avatar-url.com/yashas.png" width="140" alt="Yashas Avatar"/>
-</p>
-
-<h2 align="center">Hi 👋, I'm Yashas N</h2>
-<p align="center"><i>A passionate Data Analyst from India</i></p>
+<h1 align="left">Hi 👋, I'm Yashas N</h1>
+<p align="left"><b>A passionate Data Analyst from India</b></p>
 
 ---
 
-### 👤 Profile Status
-
-- 🎓 Computer Science Graduate (Jyothy Institute of Technology, CGPA: 8.6)
-- 💡 *Currently learning*: Power BI, TensorFlow, and advanced analytics
-- 🤝 Looking for: **Collaborations on AI research and Data Science projects**
-- 🗣️ *Ask me about*: Data Analysis, Machine Learning, Deep Learning, Model Deployment, Dashboarding
-
+- 🌱 I’m currently learning **Power BI and TensorFlow**
+- 🤝 I’m looking to collaborate on **AI Research**
+- 💬 Ask me about **Machine Learning & Deep Learning**
+- 📫 How to reach me: yashas4156@gmail.com
+- 👀 Check my experiences [here](https://your-experience-link.com)
+- ⚡ Fun fact: *A rare blend of discipline and approachable energy, adaptable in both solo and team settings :)*
+  
 ---
 
-### 📨 How to Reach Me
-
-- 📧 yashas4156@gmail.com  
-- 🌐 [LinkedIn](https://linkedin.com/in/your-link) | [GitHub](https://github.com/your-github-username)
-- 📍 Bangalore, Karnataka, India
-
----
-
-### 🏅 Fun Fact
-
-> I bring a unique mix of dedication, analytical rigor, and a blend of discipline and approachable energy—adaptable both to solo and team environments!
-
----
-
-## 🔗 Connect with Me
+### Connect with me
 
 <p>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yashas4156@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yashas4156@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🛠️ Languages and Tools
+### Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,sql,react,flask,pandas,keras,tensorflow,sklearn,tableau,powerbi,git,linux,html,css,aws,wireshark,django" />
+  <img src="https://skillicons.dev/icons?i=py,sql,js,cpp,react,flask,pandas,keras,tensorflow,sklearn,numpy,tableau,powerbi,git,linux,html,css,seaborn,matplotlib,mysql,sqlite" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=react&show_icons=true" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react" width="60%">
+### Most Used Languages
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="350px"/>
 </p>
 
 ---
 
-## 🚀 Experience
+### My GitHub Stats
 
-- **Machine Learning Intern, CIRC** | Bengaluru  
-  _Sep 2024 – Jan 2025_  
-  - Integrated dual-stream CNNs with TensorFlow, reducing overfitting by 18% and improving predictive value by 15%.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="410px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="410px"/>
+</p>
 
-- **Machine Learning Intern, TestAIng Solutions Pvt. Ltd** | Remote  
-  _Nov 2024 – Dec 2024_  
-  - Developed ML classification models and enhanced fairness in banking data using Fairlearn.
+---
 
-- **Sports Data Analyst Intern, SportsKPI** | Remote  
-  _Mar 2025 – May 2025_  
-  - Built Power BI dashboards visualizing football match insights and trends.
+## 🛠️ Experience
+
+- **Machine Learning Intern, Centre For Incubation, Innovation, Research and Consultancy**  
+  *Bengaluru, India | Sep 2024 – Jan 2025*  
+  - Integrated dual-stream CNNs, optimized TensorFlow models, reduced overfitting by 18%, and improved predictive value by 15%.
+
+- **Machine Learning Intern, TestAIng Solutions Pvt. Ltd**  
+  *Remote, India | Nov 2024 – Dec 2024*  
+  - Built Python ML pipelines, designed bias-mitigated models with Fairlearn.
+
+- **Sports Data Analyst Intern, SportsKPI**  
+  *Remote, India | Mar 2025 – May 2025*  
+  - Developed Power BI dashboards visualizing football match data and insights.
 
 ---
 
 ## 📚 Research & Publications
 
-- **A Smart, Patient-Centric Healthcare Portal…**  
-  Designed Flask-based web app with deep learning (MobileNetV2, InceptionV3) for MRI/CT-based brain disorder diagnosis (90%+ accuracy).
+- **Patient-Centric Healthcare Portal for Brain Disorders**  
+  - Flask portal using deep learning (MobileNetV2, InceptionV3) for MRI/CT diagnostics, achieving 90%+ accuracy.
 
-- **Land Use Classification using Hybrid Models**  
-  Boosted classification accuracy by 15% over prior approaches, reducing image processing time by 20%.
+- **Land Use Classification Using Hybrid Model**  
+  - Ensemble deep learning, improved accuracy by 15%, cut processing time by 20%.
 
 ---
 
 ## 💡 Featured Projects
 
-- **Detection of Brain Diseases Using Deep Learning**  
-  Comparative analysis of MRI/CT images with Flask-based web interface, SQLite integration, automated reporting.
+- **Detection of Brain Diseases Using Deep Learning Models**  
+  - Flask web app, SQLite integration, real-time analytics and reports for MRI/CT data.
 
 - **Blinkit Sales Insights Using PowerBI**  
-  KPI-driven dashboards for outlet-wise sales and customer satisfaction.
+  - KPI dashboards for sales and customer satisfaction analysis.
 
 - **EV Market Analysis Using Tableau**  
-  Regional and manufacturer-wise adoption dashboards for electric vehicles.
+  - Dashboards for regional, manufacturer-wise EV adoption and growth patterns.
 
 - **Bus Reservation System**  
-  Normalized SQL database for real-world booking and cancellation workflows.
+  - SQL database design, optimized booking, and seat management workflows.
 
 ---
 
 ## 🏆 Achievements
 
-- Awarded **Best Outgoing Sportsperson** among 430 peers (college-level sports & leadership)
+- Awarded *Best Outgoing Sportsperson* among 430 peers for excellence in sports, leadership, and holistic development.
 
 ---
 
-<!-- Custom Art/Illustration (Replace with your artwork, banner, or GIF for extra effect)—as in the example image: -->
-<p align="center">
-  <img src="https://your-art-url.com/desk-illustration.png" width="320" alt="Work Desk Illustration"/>
+<!-- Custom Art/Illustration (swap the image if you want your own art) -->
+<p align="right">
+  <img src="https://your-image-hosting.com/sd.jpg" width="260" alt="Desk Illustration" />
 </p>
