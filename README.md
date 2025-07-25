@@ -1,6 +1,6 @@
 <!-- Header Section with avatar-style illustration -->
 <p align="right">
-  <img src="https://your-image-hosting.com/sd.jpg" width="340" alt="Work From Desk Illustration" />
+  <img src="sd.jpg" width="340" alt="Work From Desk Illustration" />
 </p>
 
 <h1 align="left">Hi 👋, I'm Yashas N</h1>
@@ -12,7 +12,7 @@
 - 🤝 I’m looking to collaborate on **AI Research**
 - 💬 Ask me about **Machine Learning & Deep Learning**
 - 📫 How to reach me: yashas4156@gmail.com
-- 👀 Check my experiences [here](https://your-experience-link.com)
+- 👀 Check my experiences [here](https://www.linkedin.com/in/your-link)
 - ⚡ Fun fact: *A rare blend of discipline and approachable energy, adaptable in both solo and team settings :)*
   
 ---
@@ -41,4 +41,13 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide=html,css,js,cpp,sql" width="350px"/>
+</p>
+
+---
+
+### My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="410px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" width="410px"/>
 </p>
