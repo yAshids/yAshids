@@ -8,11 +8,11 @@
 
 ---
 
-- 🌱 I’m currently learning **Power BI and TensorFlow**
-- 🤝 I’m looking to collaborate on **AI Research**
-- 💬 Ask me about **Machine Learning & Deep Learning**
+- 🌱 I’m currently learning **Data Science and BigData**
+- 🤝 I’m looking to collaborate on **Data Science**
+- 💬 Ask me about **Machine Learning & Dashboards**
 - 📫 How to reach me: yashas4156@gmail.com
-- 👀 Check my experiences [here](https://www.linkedin.com/in/your-link)
+- 👀 Check my experiences [here](https://www.linkedin.com/in/yashas-n-1b0619280)
 - ⚡ Fun fact: *A rare blend of discipline and approachable energy, adaptable in both solo and team settings :)*
   
 ---
@@ -20,9 +20,9 @@
 ### Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn logo"/></a>
+  <a href="https://linkedin.com/in/yashas-n-1b0619280"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn logo"/></a>
   <a href="mailto:yashas4156@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail logo"/></a>
-  <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo"/></a>
+  <a href="https://github.com/yAshids"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub logo"/></a>
   <a href="https://instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram logo" /></a>
   <a href="https://kaggle.com/your-kaggle"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle logo" /></a>
 </p>
@@ -32,7 +32,7 @@
 ### Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=py,sql,js,cpp,react,flask,pandas,keras,tensorflow,sklearn,numpy,tableau,powerbi,git,linux,html,css,seaborn,matplotlib,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=py,sql,js,cpp,react,flask,pandas,keras,tensorflow,sklearn,numpy,tableau,powerbi,html,css,seaborn,matplotlib,mysql,sqlite" />
 </p>
 
 ---
